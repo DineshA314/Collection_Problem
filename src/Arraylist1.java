@@ -12,17 +12,21 @@ public static void main(String [] args)
 	l.add("abi");
 	l.add(null);
 	System.out.println(l);
+	l.add(1,"raja");
+	System.out.println(l);
+	
 
-	l.remove(2);
-	System.out.println(l);
-	l.set(1, 178);
-	System.out.println(l);
-	l.add(2,"bhuv");
-    l.add("pri7ya");
-	System.out.println(l);
-	
-	System.out.println(l.lastIndexOf(178));
-	
+//	l.remove(2);
+//	System.out.println(l);
+//	l.set(1, 178);
+//	System.out.println(l);
+//	l.add(2,"bhuv");
+//    l.add("pri7ya");
+//	System.out.println(l);
+//	
+//	
+//	System.out.println(l.lastIndexOf(178));
+//	
 
 }
 }

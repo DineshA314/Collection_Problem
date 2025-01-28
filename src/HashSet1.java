@@ -6,12 +6,14 @@ public static void main(String [] args) {
 	h.add("A");
 	h.add("B");
 	h.add("C");
-	h.add("D");
+	h.add("u");
 	h.add(null);
-	//h.add(null);
+	h.add(null);
 	h.add(123123);
-	System.out.println(h.add("A"));
+	//System.out.println(h.add("A"));
+	
 	System.out.println(h);
+
 
 
 
